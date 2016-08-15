@@ -1,4 +1,3 @@
-layout_spectrum: 0.14336023130454123
 typography_spectrum: 0.7246534766163677
 color:
   brandStrength: 0.29670040193013847
@@ -6,9 +5,11 @@ color:
   saturation: 0.5686606517992914
   rhythmicContrast: 0.8992107480298728
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.14336023130454123
 name: Manqueef
+title: was that a fart or a queef?
